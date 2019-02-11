@@ -1,0 +1,548 @@
+.SocialNetwork {
+    background-color: brown;
+    width: 100%;
+    height: 100%;
+    padding-left: 100px;
+    padding-right: 200px;
+    float: left;
+}
+.top {
+    width: 80%;
+    height: 40px;
+    background-color: brown;
+    margin-left: 180px;
+    margin-top: 20px;
+    float: left;
+}
+.logo {
+    width: 200px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 4px;
+    font-size: 30px;
+    color: white;
+    float: left;
+}
+.input {
+    width: 500px;
+    height: 30px;
+   margin-left: 20px;
+    margin-top: 6px;
+    float: left;
+}
+.submit {
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+}
+.icon {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 11px;
+    color: white;
+    float: left;
+}
+.salute {
+    font-size: 10px;
+    color: white;
+    margin-left: 5px;
+    float: right;
+}
+.header {
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    width: 75%;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 200px;
+    float: left;
+ }
+ .header ul li {
+    letter-spacing: 3px;
+    word-spacing: 100px;
+    color: white;
+    list-style-type: none;
+    margin-top: 2px;
+    float: left;
+ }
+ ul li a{
+    color: white;
+    padding: 18px;
+ }
+ .video {
+    width: 50%;
+    height: 20px;
+    margin-left: 200px;
+    color: white;
+    margin-top: 20px;
+    float: left;
+}
+.activity {
+    width: 25%;
+    height: 20px;
+    margin-left: 43px;
+    color: white;
+    margin-top: 12px;
+    float: left;
+}
+.main{
+    
+    width: 75%;
+    height: 500px;
+    float: left;
+    margin-left: 200px;
+
+}
+.video1 {
+    
+    width: 70%;
+    height: 100%;
+    float: left;
+
+}
+.active {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    width: 29%;
+    height: 100%;
+    float: left;
+    margin-left: 1%;
+    
+}
+.video2 {
+    
+    width: 100%;
+    height: 65.5%;
+}
+.video3 {
+    background-color:white;
+    width: 66%;
+    
+    float: left;
+}
+.video6 {
+    background-color: white;
+    width: 33%;
+    height: 49%;
+    float: left;
+    margin-left: 1%;
+}
+.video7 {
+    background-color: white;
+    width: 33%;
+    height: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.video8 {
+    
+    width: 100%;
+    height: 33.5%;
+    float: left;
+    margin-top: 1%;
+}
+.video8l {
+    background-color:white;
+    height: 100%;
+    width: 32.5%;
+    float: left;
+}
+.video9 {
+    background-color:white;
+    height: 100%;
+    width: 32.5%;
+    float: left;
+    margin-left: 1%;
+}
+.video10r {
+    border: 1px solid white;
+    height: 100%;
+    width: 33%;
+    float: left;
+    margin-left: 1%;
+}
+.activemain {
+    
+    height: 94%;
+    width: 100%;
+    margin-top: 5%;
+    float: left;
+    
+}
+.active1 {
+   
+    width: 100%;
+    height: 19%;
+    float: left;
+
+}
+.active2 {
+    
+    width: 100%;
+    height: 19%;
+    float: left;
+    margin-top: 1.25%;
+
+
+}
+.active3 {
+    
+    width: 100%;
+    height: 19%;
+    float: left;
+    margin-top: 1.25%;
+
+}
+.active4 {
+    
+    width: 100%;
+    height: 19%;
+    float: left;
+    margin-top: 1.25%;
+
+}
+.active5 {
+    
+    width: 100%;
+    height: 19%;
+    float: left;
+    margin-top: 1.25%;
+
+}
+.activeimg {
+    background-color: white;
+    height: 100%;
+    width: 35%;
+    float: left;
+}
+.activep {
+    
+    height: 100%;
+    width: 63%;
+    float: left;
+    margin-left: 2%;
+}
+#activep {
+    font-size: 11px;
+    color: white;
+    padding: 0;
+    margin: 0;
+    
+}
+#activecomments {
+    font-size: 10px;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#activeh {
+    color: white;
+}
+.video5 {
+    
+    width: 60%;
+    height: 12%;
+    margin-top: 68%;
+    margin-left: 2%;
+}
+.video5h {
+    color: brown;
+    
+    padding: 0;
+    margin: 0;
+
+}
+.video11p {
+    color: brown;
+    padding: 0;
+    margin: 0;
+
+}
+.video6p{
+
+width: 70%;
+height: 20%;
+margin-top: 61%;
+margin-left: 2%;
+
+}
+.video7p {
+
+width: 70%;
+height: 20%;
+margin-left: 2%;
+}
+#video6h {
+    color: brown;
+    font-size: 15px;
+}
+.video8p {
+    
+    width: 70%;
+    height: 20%;
+    margin-top: 65%;
+    margin-left: 2%;
+}
+#video8h { 
+    color: brown;
+    font-size: 15px;
+}
+#video10i {
+   margin-top: 30%;
+   margin-left: 15%;
+   color: white;
+   font-size: 30px;
+   padding: 5px;
+   border: 2px solid white;
+   border-radius: 25px;
+   float: left;
+}
+.video10p {
+    
+    width: 55%;
+    height: 20%;
+    float: left;
+    margin-top: 32%;
+    margin-left: 10px;
+
+}
+.video10h4 {
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+.video10h5 {
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+.people{
+    
+    float: left;
+    width: 50%;
+    height: 20px;
+    margin-left: 200px;
+    color: white;
+    margin-top: 40px;
+}
+.channels {
+    
+    float: left;
+    width: 25%;
+    height: 20px;
+    margin-left: 43px;
+    color: white;
+    margin-top: 40px;
+}
+.main1 {
+    
+    width: 75%;
+    height: 1050px;
+    margin-left: 200px;
+    float: left;
+
+}
+.main12 {
+    
+    height: 100%;
+    width:  70%;
+    float: left;
+
+}
+.main13 {
+  
+    width: 100%;
+    height: 500px;
+    float: left;
+    
+}
+.main123 {
+    
+    width: 100%;
+    height: 500px;
+    float: left;
+
+}
+.main134 {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white; 
+    width: 29%;
+    height: 90%;
+    float: left;
+    margin-left: 1%;
+}
+.main135 {
+    
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  10%;
+}
+.main201 {
+    
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  2%;
+}
+.main301 {
+    
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  2%;
+}
+.main401 {
+   
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  2%;
+}
+.main501 {
+    
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  2%;
+}
+.main136 {
+    background-color:white;
+    height: 100%;
+    width: 49%;
+    float: left;
+}
+.main189 {
+    background-color: white;
+    height: 100%;
+    width: 49%;
+    margin-left: 2%;
+    float: left;
+}
+.on {
+    
+    height: 20%;
+    width: 60%;
+    margin-top: 95%;
+    margin-left: 4%;
+
+}
+.mainbottomrightp {
+    color: brown;
+
+}
+.foot {
+    border-top: 2px solid white;
+    width: 75%;
+    height: 30px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+#footicon {
+    font-size: 20px;
+    color: white;
+    margin-top: 5px;
+}
+.footnav {
+    margin-top: 10px;
+    margin-left: 145px;
+  
+    width: 75%;
+    height: 30%;
+  
+
+
+}
+.footnavlist li {
+    float: left;
+    list-style-type: none;
+}
+#final {
+    
+    color: white;
+    margin-top: 20px;
+    float: left;
+    margin-right: 130px;
+    margin-left: 200px;
+}
+.main14 {
+    
+    width: 100%;
+    height: 65.5%;
+}
+.main152 {
+    
+    width: 100%;
+    height: 33.5%;
+    margin-top: 1%;
+}
+.main15 {
+    background-color: white;
+    height: 100%;
+    width: 66%;
+    float: left;
+    
+}
+.main150 {
+    background-color: white;
+    height: 49%;
+    width: 33%;
+    margin-left: 1%;
+    float: left;
+    
+    
+}
+.mainb151 {
+    background-color: white;
+    height: 49%;
+    width: 33%;
+    margin-left: 1%;
+    float: left;
+    margin-top: 1%;
+    
+    
+}
+.main153 {
+    background-color: white;
+    
+    height: 100%;
+    width: 32.5%;
+    float: left;
+}
+.main154 {
+    background-color: white;
+    height: 100%;
+    width: 32.5%;
+    float: left;
+    margin-left: 1%;
+}
+.main155 {
+    border: 1px solid white;
+    height: 100%;
+    width: 33%;
+    float: left;
+    margin-left: 1%;
+}
+.main111 {
+    width: 100%;
+    height: 50px;
+   
+    float: left;
+}
+.main111p{
+    color: white;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
